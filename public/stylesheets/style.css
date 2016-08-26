@@ -1,0 +1,22 @@
+a {
+  color: #00B7FF; }
+
+input {
+  display: block;
+  margin: 20px;
+  padding: 5px; }
+
+legend {
+  font-size: 36px;
+  font-weight: bold; }
+
+ul {
+  position: relative;
+  right: 30px; }
+
+li {
+  position: relative;
+  display: inline;
+  margin: 0 30px; }
+
+/*# sourceMappingURL=style.css.map */

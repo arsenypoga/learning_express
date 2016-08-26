@@ -1,0 +1,10 @@
+extends index.pug
+
+block body
+  form(id="", method="post", action="/user_login")
+    fieldset
+      legend Login to the account :
+
+      input(type="login", placeholder="Username" name="username")
+      input(type="password", placeholder="Password" name="password")
+      input(type="submit", name="Submit")
